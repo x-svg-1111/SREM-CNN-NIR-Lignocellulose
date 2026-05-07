@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this implementation, please cite the associated SREM-CNN manuscript."
+title: "SREM-CNN: Spectroscopy-Guided Reorganization of Overtone and Combination Bands for Cross-Region Coupling Learning in Near-Infrared Analysis of Lignocellulosic Biomass"
+authors:
+  - family-names: Dai
+    given-names: Jiawei
+  - family-names: Yang
+    given-names: Zengling
+  - family-names: Niu
+    given-names: Wenjuan
+  - family-names: Ge
+    given-names: Chenjun
+  - family-names: Ma
+    given-names: Yongzheng
+  - family-names: Han
+    given-names: Lujia
+version: 0.1.0
+date-released: 2026-05-07

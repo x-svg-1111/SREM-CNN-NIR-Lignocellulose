@@ -1,0 +1,14 @@
+data: data_demo/synthetic_srem_demo.npz
+target: cellulose
+split:
+  method: kennard_stone_train_random_val_test
+  train_ratio: 0.6
+  val_ratio: 0.2
+  test_ratio: 0.2
+srem:
+  target_length: null
+model:
+  max_epochs: 300
+  patience: 30
+  min_delta: 0.001
+
